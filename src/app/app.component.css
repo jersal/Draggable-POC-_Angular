@@ -1,0 +1,17 @@
+.bound-box {
+  border: solid 3px gray;
+  border-color: gray;
+  height: 200px;
+  width: 200px;
+  max-height: 200px;
+  max-width: 180px;
+  margin: 50px;
+}
+
+.resizable-widget {
+  opacity: 0.5;
+  border: none;
+  width: 28px;
+  margin-left: 76px;
+  margin-top: 13px;
+}
